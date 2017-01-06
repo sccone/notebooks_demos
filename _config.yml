@@ -11,7 +11,7 @@ title: IOOS notebooks
 title_separator: "-"
 name: "US IOOS"
 description: "IOOS notebooks demonstrations"
-url: "https://ioos.github.io"
+url: "https://ocefpaf.github.io"
 baseurl: "/notebooks_demos"
 repository: "ioos/notebooks_demos"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
