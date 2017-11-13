@@ -1,3 +1,6 @@
 *.*~
 *.swp
 notebooks/.ipynb_checkpoints/
+Gemfile
+_site/
+.sass-cache/
